@@ -1,14 +1,14 @@
 auto: true
 server: true
 permalink: none
-baseurl: ""
+baseurl: "projets"
 exclude:
 - .gitignore
 - README.md
 
 prose:
   rooturl: "_posts"
-  metadata: 
+  metadata:
     _posts/articles:
       published: false
       layout: article
